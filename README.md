@@ -9,7 +9,7 @@
 - 🌱 I'm currently studying at BUPT
 
 <!--
-**codecat0/codecat0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jnmz/Jnmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
