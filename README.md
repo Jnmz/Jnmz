@@ -1,7 +1,15 @@
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=codecat0&show_icons=true&theme=shades-of-purple" /> 
+</a>
+                                                                                                                 
 ### Hi there 👋
 
+- 🔭 I’m currently in Beijing, China
+- 📫 How to reach me: `jkw@bupt.edu.cn`
+- 🌱 I'm currently studying at BUPT
+
 <!--
-**Jnmz/Jnmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**codecat0/codecat0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
