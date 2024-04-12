@@ -22,7 +22,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Jnmz/count.svg) visitor
 
 # About My Github
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jnmz&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-stats-alpha.vercel.app/api?username=Jnmz&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
 <div align=center> <img width="300" height="200" src="https://github.com/Jnmz/Jnmz/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/> </div>
 
 # My Skill Set  
