@@ -6,6 +6,13 @@ My ![Visitor Count](https://profile-counter.glitch.me/Jnmz/count.svg) visitor
 
 
 # I'm Jnmz <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+ ```bash
+  __                      
+  \ \ _ __  _ __ ___  ____
+   \ | '_ \| '_ ` _ \|_  /
+/\_/ | | | | | | | | |/ / 
+\___/|_| |_|_| |_| |_/___|
+```
 # ![Mario_Gameplay](https://github.com/erbanku/erbanku/assets/79493862/56f4be91-dcd4-4700-838d-5545ccdbf859)
 - 🔭 I’m currently studying at **BUPT**
 - 🌱 I’m currently learning **CV, NLP**
